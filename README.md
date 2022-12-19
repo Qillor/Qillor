@@ -5,7 +5,7 @@
 ## <div align="center">I'm Sam, a full-stack developer from Canada!</div>  
   
 
-- 🔭 I am currently working on [skate.world](https://discord.gg/cj9Ukkceet)  
+- 🔭 I am currently working on [<img src="https://cdn.discordapp.com/attachments/1001022133188706304/1001022248389464104/LogoTransparent.png" align="center" height="50" width="50" />](https://discord.gg/cj9Ukkceet)  
   
 
 
@@ -14,8 +14,14 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=qillor&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=qillor&show_icons=true&theme=tokyonight&line_height=27">
+</p>
+
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=qillor&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
+</p> 
 
 <br/>  
 
